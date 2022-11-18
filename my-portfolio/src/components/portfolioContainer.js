@@ -6,16 +6,16 @@ import Portfolio from './pages/portfolio';
 import Contact from './pages/contact';
 import Resume from './pages/resume';
 import Navigation from './Navigation'
-import Typical from 'react-typical'
+
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('aboutMe');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
-    if (currentPage === 'Home') {
-      return <Home />;
-    }
+    // if (currentPage === 'Home') {
+    //   return <Home />;
+    // }
     if (currentPage === 'aboutMe') {
       return <AboutMe />;
     }
