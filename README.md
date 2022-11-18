@@ -23,11 +23,11 @@
   * About me page:
   ![ displays the main home.](my-portfolio/src/assets/home.png)
   * Portfolio page:
-  ! [ displays projects .](my-portfolio/src/assets/portfolio.png)
+  ![ displays projects .](my-portfolio/src/assets/portfolio.png)
   * Resume page:
-  ! [display the resume.](my-portfolio/src/assets/resum.png)
+  ![display the resume.](my-portfolio/src/assets/resum.png)
   * Contact page:
-  ! [display the contact form.](my-portfolio/src/assets/cantact.png)
+  ![display the contact form.](my-portfolio/src/assets/cantact.png)
 
 
   ## Link to the app:
