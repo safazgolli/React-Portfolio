@@ -19,3 +19,28 @@
  I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
 
+ ## Picture for The portfolio
+  * About me page:
+  ![ displays the main home.](./assets/home.png)
+  * Portfolio page:
+  ! [ displays projects .](./assets/portfolio.png)
+  * Resume page:
+  ! [display the resume.](./assets/resum.png)
+  * Contact page:
+  ! [display the contact forme.](./assets/cantact.png)
+
+
+  ## Link to the app:
+
+  deployed linK
+
+  https://safazgolli.github.io/react-portfolio/
+
+  ## Technologie used :
+
+  * React.js
+  * Javascript
+  * JSX
+  * Boostraps
+  * React typical library
+  * Bootstarps icon library

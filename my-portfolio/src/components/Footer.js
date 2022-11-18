@@ -9,23 +9,23 @@ export default function Footer() {
           <div className="col">
             {" "}
             <a href="https://github.com/safazgolli">
-              <Github color="black" size={70} />
+              <Github color="black" size={60} />
             </a>
           </div>
           <div className="col">
             {" "}
             <a href="https://www.linkedin.com/in/safa-zgolli-9b2123181/">
-              <Linkedin color="black" size={70} />
+              <Linkedin color="black" size={60} />
             </a>
           </div>
           <div className="col">
             {" "}
             <a href="https://twitter.com/SZgilli">
-              <Twitter color="black" size={70} />
+              <Twitter color="black" size={60} />
             </a>
           </div>
-          <div className="col">
-            <h4>&copy; {new Date().getFullYear()} - portfoliosafa</h4>
+          <div className="row">
+            <h4>&copy; {new Date().getFullYear()} -safa zgolli</h4>
           </div>
         </div>
       </div>
