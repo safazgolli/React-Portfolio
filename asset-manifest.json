@@ -1,7 +1,7 @@
 {
   "main.css": "/react-portfolio/static/css/main.60743733.chunk.css",
-  "main.js": "/react-portfolio/static/js/main.c3c670c7.chunk.js",
-  "main.js.map": "/react-portfolio/static/js/main.c3c670c7.chunk.js.map",
+  "main.js": "/react-portfolio/static/js/main.a4b12333.chunk.js",
+  "main.js.map": "/react-portfolio/static/js/main.a4b12333.chunk.js.map",
   "static/css/1.a7faa837.chunk.css": "/react-portfolio/static/css/1.a7faa837.chunk.css",
   "static/js/1.7367ef01.chunk.js": "/react-portfolio/static/js/1.7367ef01.chunk.js",
   "static/js/1.7367ef01.chunk.js.map": "/react-portfolio/static/js/1.7367ef01.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.121914eb.png",
   "static/media/eventplaner.png": "/react-portfolio/static/media/eventplaner.9b4fca9d.png",
   "static/media/nas.png": "/react-portfolio/static/media/nas.4c902532.png",
-  "static/css/main.60743733.chunk.css.map": "/react-portfolio/static/css/main.60743733.chunk.css.map",
   "static/css/1.a7faa837.chunk.css.map": "/react-portfolio/static/css/1.a7faa837.chunk.css.map",
+  "static/css/main.60743733.chunk.css.map": "/react-portfolio/static/css/main.60743733.chunk.css.map",
   "index.html": "/react-portfolio/index.html",
-  "precache-manifest.d5df7adeb3b979d22d7e16e846f520e8.js": "/react-portfolio/precache-manifest.d5df7adeb3b979d22d7e16e846f520e8.js",
+  "precache-manifest.6a11bc609d4b25d5b64f233bc96383d9.js": "/react-portfolio/precache-manifest.6a11bc609d4b25d5b64f233bc96383d9.js",
   "service-worker.js": "/react-portfolio/service-worker.js"
 }
