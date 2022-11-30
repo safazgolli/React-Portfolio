@@ -70,7 +70,7 @@ function Navigation({ currentPage, handlePageChange }) {
                       currentPage === "resume" ? "nav-link active" : "nav-link"
                     }
                   >
-                    resume
+                    Resume
                   </a>
                 </li>
                 <li className="nav-item">

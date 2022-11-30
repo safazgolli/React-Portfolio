@@ -5,13 +5,7 @@ import Typical from "react-typical";
 export default function aboutMe() {
   return (
     <div className="container text-center mb-5">
-      <h3>
-        <Typical
-          steps={["Hello", 1000, "It is Me!", 500]}
-          loop={Infinity}
-          wrapper="p"
-        />
-      </h3>
+      
       <div className="flex-row justify-space-between my-4">
         <img
           src={Me}
