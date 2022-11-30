@@ -3,6 +3,7 @@ import Quiz from '../../assets/jsQuiz.png';
 import Weather from '../../assets/weatherDashboard.png';
 import Blog from '../../assets/tech-blog.png';
 import Event from '../../assets/eventplaner.png';
+import Nas from '../../assets/nas.png'
 import Project from '../Project.js'
 
 
@@ -40,6 +41,14 @@ const project =[
         url : "https://tech-event-planner.herokuapp.com/",
         git :"https://github.com/hmhtom/tech-event-planner",
      },
+     {
+      id: 5,
+      title :"Event planer",
+      description : " Web site to by event tickets  ",
+      img : Nas ,
+      url : "https://nas-center.herokuapp.com/",
+      git :"https://github.com/hmhtom/NAS-Centre",
+   },
 
     ];
     export  default function Portfolio(){
