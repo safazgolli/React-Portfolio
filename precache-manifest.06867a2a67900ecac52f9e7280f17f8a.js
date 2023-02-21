@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "00aa973626f8b69421dc",
-    "url": "/react-portfolio/static/css/main.95ea082d.chunk.css"
+    "revision": "f77aa93a7316e2c0e66d",
+    "url": "/react-portfolio/static/css/main.d456deaf.chunk.css"
   },
   {
-    "revision": "00aa973626f8b69421dc",
-    "url": "/react-portfolio/static/js/main.00aa9736.chunk.js"
+    "revision": "f77aa93a7316e2c0e66d",
+    "url": "/react-portfolio/static/js/main.f77aa93a.chunk.js"
   },
   {
-    "revision": "73651928e5404ababa5c",
-    "url": "/react-portfolio/static/css/1.9f9de4d5.chunk.css"
+    "revision": "8d09ecf566c429e9398b",
+    "url": "/react-portfolio/static/css/1.962581b9.chunk.css"
   },
   {
-    "revision": "73651928e5404ababa5c",
-    "url": "/react-portfolio/static/js/1.73651928.chunk.js"
+    "revision": "8d09ecf566c429e9398b",
+    "url": "/react-portfolio/static/js/1.8d09ecf5.chunk.js"
   },
   {
     "revision": "f8926043fa4459ec0101",
     "url": "/react-portfolio/static/js/runtime~main.f8926043.js"
   },
   {
-    "revision": "9b55c5f13a39a1dd392bd4a9d75bca0a",
-    "url": "/react-portfolio/static/media/resumecv.9b55c5f1.pdf"
+    "revision": "4c6fa53810b14d667b6377a7c88cc547",
+    "url": "/react-portfolio/static/media/resumecv.4c6fa538.pdf"
   },
   {
     "revision": "c00172ed01b128d95f2459b2d80a1f8a",
@@ -52,7 +52,23 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/calendar.ce289b13.png"
   },
   {
-    "revision": "28061ea32172dfd4526d506a2aef3f12",
+    "revision": "0d01193025421287939b3758fcd96f9e",
+    "url": "/react-portfolio/static/media/pswdG.0d011930.png"
+  },
+  {
+    "revision": "b404d5bf261ca3eb95520821d60f231b",
+    "url": "/react-portfolio/static/media/socialApi.b404d5bf.png"
+  },
+  {
+    "revision": "8b42d64d78e097da7aadfa74af013f26",
+    "url": "/react-portfolio/static/media/Ecommerce.8b42d64d.png"
+  },
+  {
+    "revision": "e35a30fdfea801d58872e3e4c184ccb9",
+    "url": "/react-portfolio/static/media/employeeTraker.e35a30fd.png"
+  },
+  {
+    "revision": "552e50163c3ff8e821c48a2c044237ec",
     "url": "/react-portfolio/index.html"
   }
 ];
